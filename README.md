@@ -1,4 +1,3 @@
-<img width="285" height="152" alt="image" src="https://github.com/user-attachments/assets/d2352b36-eb94-48d3-972d-398a783d1ca5" /># Durable Execution Engine
 
 ## Overview
 This project implements a native durable workflow execution engine in Java.
