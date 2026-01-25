@@ -1,0 +1,16 @@
+# Maven
+target/
+
+# Database
+workflow.db
+
+# Compiled files
+*.class
+
+# Eclipse files
+.settings/
+.classpath
+.project
+
+# VS Code
+.vscode/
