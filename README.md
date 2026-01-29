@@ -52,6 +52,6 @@ Executing: create-record-1
 Executing: assign-laptop-2
 Executing: give-access-3
 Executing: send-email-4
-Welcome email sent to EMP-1769338484302 
+Welcome email sent to EMP-1769**** 
 Workflow Completed
 
